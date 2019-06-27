@@ -1,0 +1,2 @@
+- 0.1
+    - Se aplica estandar generico para tiger-bridge
